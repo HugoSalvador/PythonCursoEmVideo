@@ -7,3 +7,4 @@ print('Seu saldo em dolar é: US${:.2f}'.format(carteiraDolar))
 #real = float(input('Informe o valor que você tem em conta: '))
 #dolar = real / 3.27
 #print('Com R${} você pode comprar US${}'.format(real, dolar))
+##
